@@ -13,4 +13,4 @@ It includes:
 
 # More information
 
- - [Tutorial how to assemble a firmware project from scratch](https://lb9mg.no/2018/02/25/open-obd-datalogger/)
+ - [Tutorial how to assemble a firmware project from scratch](https://lb9mg.no/2018/04/30/efm32-cortex-m-firmware-project-from-scratch-step-by-step/)
